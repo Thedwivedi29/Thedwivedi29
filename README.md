@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedwivedi29&label=Profile%20views&color=0e75b6&style=flat" alt="thedwivedi29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedwivedi29" alt="thedwivedi29" /></a> </p>
-
 - 🔭 I’m currently working on **Facial Recognition and Image Processing**
 
 - 🌱 I’m currently learning **BTech**
