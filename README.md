@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Facial Recognition and Image Processing**
 
-- 🌱 I’m currently learning **BTech**
+- 🌱 I’m currently persuing **BTech**
 
 - 💬 Ask me about **Frontend**
 
