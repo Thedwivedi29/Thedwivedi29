@@ -6,14 +6,14 @@ Software Engineer and Web Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedwivedi29&label=Profile%20views&color=0e75b6&style=flat" alt="thedwivedi29" /> </p>
 
-- 🔭 I’m currently working on **Facial Recognition and Image Processing**
+* 🔭 I’m currently working on **Facial Recognition and Image Processing**
 
-- 🌱 I’m currently persuing **BTech**
+* 🌱 I’m currently persuing **BTech**
 
-- 💬 Ask me about **Frontend**
-- * 🖥️  See my portfolio at [My Portfolio](http://thedwivedi29.github.io/Portfolio/)
+* 💬 Ask me about **Frontend**
+* 🖥️  See my portfolio at [My Portfolio](http://thedwivedi29.github.io/Portfolio/)
 
-- 📫 How to reach me **gaurangdwivedi2003@gmail.com**
+* 📫 How to reach me **gaurangdwivedi2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
