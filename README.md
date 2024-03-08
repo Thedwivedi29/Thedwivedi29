@@ -11,6 +11,7 @@ Software Engineer and Web Developer
 - 🌱 I’m currently persuing **BTech**
 
 - 💬 Ask me about **Frontend**
+- * 🖥️  See my portfolio at [My Portfolio](http://thedwivedi29.github.io/Portfolio/)
 
 - 📫 How to reach me **gaurangdwivedi2003@gmail.com**
 
