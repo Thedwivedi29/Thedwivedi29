@@ -23,7 +23,6 @@ Software Engineer and Web Developer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurang-dwivedi-a009a7251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurang-dwivedi-a009a7251" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurangdwivedi_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurangdwivedi_29" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@gaurang_dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gaurang_dwivedi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurang_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurang_2911" height="30" width="40" /></a>
 </p>
