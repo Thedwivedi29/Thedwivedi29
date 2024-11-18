@@ -1,6 +1,9 @@
- <h1>
-       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurang+Dwivedi!;" />
- </h1>
+<h1>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurang+Dwivedi!;&color=FF4C4C" 
+  />
+</h1>
+
 =======================================================================================================================================
 
 Software Engineer and Web Developer
@@ -31,29 +34,29 @@ Software Engineer and Web Developer
 <div> 
 
 <!-- GitHub Streak Stats -->
-<img 
- src="https://github-readme-streak-stats.herokuapp.com/?user=thedwivedi29&theme=algolia&hide_border=true" 
- width="49%" 
-/> 
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=thedwivedi29&theme=shadow_red&hide_border=true" 
+    width="49%" 
+  /> 
 
-<!-- GitHub Stats -->
-<img 
- src="https://github-readme-stats.vercel.app/api?username=thedwivedi29&show_icons=true&theme=algolia&hide_border=true" 
- width="49%" 
-/>
-
-<!-- Animated GIF -->
-<img 
- align='right' 
- src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" 
- width="270" 
-/> 
-
-<!-- Top Languages -->
-<img 
- align="center" 
- alt="thedwivedi29's Most Used Languages on GitHub" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" 
- width="40%" 
-/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thedwivedi29&show_icons=true&theme=shadow_red&hide_border=true" 
+    width="49%" 
+  />
+  
+  <!-- Animated GIF -->
+  <img 
+    align='right' 
+    src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" 
+    width="270" 
+  /> 
+  
+  <!-- Top Languages -->
+  <img 
+    align="center" 
+    alt="thedwivedi29's Most Used Languages on GitHub" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&bg_color=330000&title_color=FF4C4C&text_color=FF9999&icon_color=FF6666&hide_border=true&hide=jupyter%20notebook,html" 
+    width="40%" 
+  />
 </div>
