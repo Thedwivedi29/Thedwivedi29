@@ -81,10 +81,6 @@ I am a passionate **Software Engineer and Web Developer** currently pursuing my 
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thedwivedi29&theme=shadow_red&no-bg=true&no-frame=true&column=7" width="100%" />
-</div>
-
 <br>
 
 <div align="center">
