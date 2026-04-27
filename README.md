@@ -1,61 +1,110 @@
-<h1>
+<h1 align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurang+Dwivedi!;&color=FF4C4C" 
   />
 </h1>
 
-=======================================================================================================================================
-
-Software Engineer and Web Developer
------------------------------------
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thedwivedi29&label=Profile%20views&color=0e75b6&style=flat" alt="thedwivedi29" /> </p>
-
-* 🔭 I’m currently working on **Facial Recognition and Image Processing**
-
-* 🌱 I’m currently persuing **BTech**
-
-* 💬 Ask me about **Frontend**
-* 🖥️  See my portfolio at [My Portfolio](http://thedwivedi29.github.io/Portfolio/)
-
-* 📫 How to reach me **gaurangdwivedi2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurang-dwivedi-a009a7251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurang-dwivedi-a009a7251" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gaurang_dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gaurang_dwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurang_2911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurang_2911" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thedwivedi29&label=Profile%20views&color=0e75b6&style=flat" alt="thedwivedi29" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Bachelor of Technology in Computer Science</strong><br>
+  Pranveer Singh Institute of Technology, Kanpur (2021 - 2025)
+</p>
 
-<div> 
+---
 
-<!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=thedwivedi29&theme=shadow_red&hide_border=true" 
-    width="49%" 
-  /> 
+### 🚀 About Me
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thedwivedi29&show_icons=true&theme=shadow_red&hide_border=true" 
-    width="49%" 
-  />
-  
-  <!-- Animated GIF -->
-  <img 
-    align='right' 
-    src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" 
-    width="270" 
-  /> 
-  
-  <!-- Top Languages -->
-  <img 
-    align="center" 
-    alt="thedwivedi29's Most Used Languages on GitHub" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&bg_color=330000&title_color=FF4C4C&text_color=FF9999&icon_color=FF6666&hide_border=true&hide=jupyter%20notebook,html" 
-    width="40%" 
-  />
+I am a passionate **Software Engineer and Web Developer** currently pursuing my **B.Tech in Computer Science** at **PSIT Kanpur**. I specialize in **AI, IoT, and Web Development**, with a strong focus on building impactful real-world solutions.
+
+- 🔭 I’m currently working on **FALCON: Comprehensive Security System**.
+- 🌱 I’m deepening my knowledge in **Generative AI and Cloud Computing**.
+- 💬 Ask me about **IoT, Python, and Frontend Development**.
+- 🖥️ See my portfolio at [thedwivedi29.github.io/Portfolio/](http://thedwivedi29.github.io/Portfolio/)
+- 📫 How to reach me: **gaurangdwivedi2003@gmail.com**
+
+---
+
+### 🛠️ Technical Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeMCU-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+
+---
+
+### 💼 Experience
+
+**Guvi: AI-For-India Face Recognition System** | *Programmer* | *April 2021*
+- Engineered Python-based facial recognition algorithms, achieving 95% accuracy.
+- Contributed to the AI-For-India mission, advancing AI for societal impact.
+- Enhanced system performance, boosting processing speed by 30%.
+
+---
+
+### 📂 Featured Projects
+
+- **🦅 FALCON (Facial Recognition & Laser Security)**
+  - Developed an integrated security system with 94.6% facial recognition accuracy.
+  - Implemented real-time Telegram alerts (within 3s) for unauthorized access.
+  - Used AI and IoT for object detection and comprehensive area monitoring.
+
+- **⛰️ Mountain Climbing & Health Monitoring System**
+  - Built a real-time location tracking system with 90% accuracy using GPS and ESP8266.
+  - Integrated health sensors for remote monitoring during expeditions.
+  - Seamless data relay in remote areas via mobile connectivity.
+
+---
+
+### 🏆 Achievements & Certifications
+
+- ✅ **300+ Coding Questions** solved on HackerRank and LeetCode.
+- ✅ **10+ Web Projects** and **5+ IoT-based Projects** developed.
+- 📜 **Generative AI Certification**
+- 📜 **Python Certification** - Guvi (2022)
+- 📜 **ChatGPT for Everyone** - Course Completion
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedwivedi29&theme=shadow_red&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedwivedi29&show_icons=true&theme=shadow_red&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&hide=jupyter%20notebook,html" width="60%" />
+</div>
+
+---
+
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/gaurang-dwivedi-29i1" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gaurangdwivedi2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/gaurang_2911" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="150" />
+</p>
