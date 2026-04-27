@@ -93,8 +93,7 @@ I am a passionate **Software Engineer and Web Developer** currently pursuing my 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&hide=jupyter%20notebook,html" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedwivedi29&theme=react-dark&hide_border=true&area=true&bg_color=1a1a1a&color=ff4c4c&line=ff4c4c&point=ff4c4c" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedwivedi29&langs_count=8&layout=compact&theme=shadow_red&hide_border=true&hide=jupyter%20notebook,html" width="60%" />
 </div>
 
 ---
